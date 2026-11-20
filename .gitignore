@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local SQLite database (recreated and seeded on startup)
+baitwatch.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
